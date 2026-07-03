@@ -10,6 +10,7 @@ Currently looking for opportunities as a **Data Scientist / Data Analyst** in Li
 `Python` `SQL` `LightGBM` `scikit-learn` `Power BI` `Microsoft Fabric` `Celonis`
 
 **📌 Featured projects**
+- **[ICU-Sepsis RL](https://github.com/tomasbvitorino/icu-sepsis-rl)** — group project: treatment optimization using Policy Iteration, Q-Learning, and Deep RL
 - *(more added as they're published)*
 
 **🎓 Academic experience with real companies**
