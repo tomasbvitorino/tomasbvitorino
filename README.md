@@ -11,6 +11,7 @@ Currently looking for opportunities as a **Data Scientist / Data Analyst** in Li
 
 **📌 Featured projects**
 - **[Cars 4 You - Price Prediction](https://github.com/tomasbvitorino/cars4you-price-prediction)** - group project: end-to-end ML pipeline (imputation, feature engineering, ensemble stacking) for used-car price regression
+- **[AIAI Customer Segmentation](https://github.com/tomasbvitorino/aiai-customer-segmentation)** - solo project: multi-perspective (value, behavioral, demographic) customer segmentation for an airline loyalty program using KMeans/GMM clustering, with an interactive Streamlit dashboard
 - **[ICU-Sepsis RL](https://github.com/tomasbvitorino/icu-sepsis-rl)** - group project: treatment optimization using Policy Iteration, Q-Learning, and Deep RL
 - *(more added as they're published)*
 
