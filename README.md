@@ -10,11 +10,12 @@ Currently looking for opportunities as a **Data Scientist / Data Analyst** in Li
 `Python` `SQL` `LightGBM` `scikit-learn` `Power BI` `Microsoft Fabric` `Celonis`
 
 **📌 Featured projects**
-- **[ICU-Sepsis RL](https://github.com/tomasbvitorino/icu-sepsis-rl)** — group project: treatment optimization using Policy Iteration, Q-Learning, and Deep RL
+- **[Cars 4 You - Price Prediction](https://github.com/tomasbvitorino/cars4you-price-prediction)** - group project: end-to-end ML pipeline (imputation, feature engineering, ensemble stacking) for used-car price regression
+- **[ICU-Sepsis RL](https://github.com/tomasbvitorino/icu-sepsis-rl)** - group project: treatment optimization using Policy Iteration, Q-Learning, and Deep RL
 - *(more added as they're published)*
 
 **🎓 Academic experience with real companies**
-BNP Paribas · Jerónimo Martins · Siemens · Fidelidade (NDA-covered projects — not publicly published)
+BNP Paribas · Jerónimo Martins · Siemens · Fidelidade (NDA-covered projects - not publicly published)
 
 **📫 Contact**
 [LinkedIn](https://www.linkedin.com/in/tomasbvitorino/) · [Email](mailto:tomas.b.vitorino@gmail.com)
